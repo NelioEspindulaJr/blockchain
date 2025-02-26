@@ -1,0 +1,26 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Custom blockchain implementation using Node",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NelioEspindulaJr/blockchain.git"
+  },
+  "keywords": [
+    "BLOCKCHAIN"
+  ],
+  "author": "nelioespindula.junior@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NelioEspindulaJr/blockchain/issues"
+  },
+  "homepage": "https://github.com/NelioEspindulaJr/blockchain#readme",
+  "dependencies": {
+    "@types/crypto-js": "^4.2.2",
+    "crypto-js": "^4.2.0"
+  }
+}
